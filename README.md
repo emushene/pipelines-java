@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/saccodata/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_apis/build/status/emushene.pipelines-java?branchName=main)](https://dev.azure.com/saccodata/Agile%20Planning%20and%20Portfolio%20Management%20with%20Azure%20Boards/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
